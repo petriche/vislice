@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+#word {
+    font-size: 2em;
+}
+
+#guess {
+    font-size: 1.2em;
+    width: 50px;
+}
